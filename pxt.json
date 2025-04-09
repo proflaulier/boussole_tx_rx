@@ -1,5 +1,5 @@
 {
-    "name": "boussole_TX_RX",
+    "name": "boussole_TOR",
     "description": "",
     "dependencies": {
         "core": "*",
